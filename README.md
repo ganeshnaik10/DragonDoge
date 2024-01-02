@@ -1,1 +1,3 @@
-# DragonDoge
+# DragonDodge
+# "DragonDodge: The Quest for Survival"
+#It's an exhilarating game that challenges your reflexes and strategic thinking! Embark on a thrilling adventure as you guide a fearless dragon through a perilous world filled with cacti and fireballs. With stunning visuals and dynamic gameplay, your goal is to navigate the dragon to safety while avoiding obstacles and collecting points. As you progress, the game dynamically adjusts its difficulty, keeping you engaged and eager to push your limits. Compete with yourself and others to achieve the highest score, all while enjoying an immersive experience. Get ready to dodge, weave, and conquer in this epic quest for survival!
